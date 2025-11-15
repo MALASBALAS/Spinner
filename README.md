@@ -1,4 +1,4 @@
-# Preferencias
+# Spinner | LIstView | GridView
 
 ## ¿Qué hace?
 La aplicación obtiene datos de un recurso XML, y pinta estos datos en el layout mediante el uso de Spinner, LIstView y GridView.
